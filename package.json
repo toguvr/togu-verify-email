@@ -1,0 +1,24 @@
+{
+  "name": "togu-verify-email",
+  "version": "1.0.0",
+  "description": "Verificações com dominios de emails, como se é publico, bloqueado, e etc",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toguvr/togu-verify-email.git"
+  },
+  "keywords": [
+    "verify",
+    "email",
+    "togu"
+  ],
+  "author": "“Augusto <“augustotf93@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toguvr/togu-verify-email/issues"
+  },
+  "homepage": "https://github.com/toguvr/togu-verify-email#readme"
+}
