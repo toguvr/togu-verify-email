@@ -1,6 +1,6 @@
 {
   "name": "togu-verify-email",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Verificações com dominios de emails, como se é publico, bloqueado, e etc",
   "main": "src/index.js",
   "scripts": {
